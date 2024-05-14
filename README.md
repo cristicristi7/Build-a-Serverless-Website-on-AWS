@@ -15,7 +15,7 @@ URL to my project: ([Cristina Gonzalez Marrero - Serverless Website on AWS](http
 
 ## Reference Diagram
 
-<img src="Serverless-Project-on-AWS-Architecture.png" width="400">
+<img src="Serverless-Project-on-AWS-Architecture.png" width="700">
 
 ## Contributors
 

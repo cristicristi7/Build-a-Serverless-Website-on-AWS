@@ -22,3 +22,7 @@ URL to my project: ([Cristina Gonzalez Marrero - Serverless Website on AWS](http
 - [Cristina Gonzalez Marrero](https://github.com/cristicristi7)
 - AWS Documentation in here [AWS Documentation](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 - Tiny Tech Tutorials on Youtube
+
+## Note
+
+The request unicorn feature has limited functionality due to licensing changes with ArcGIS.

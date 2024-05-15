@@ -1,7 +1,7 @@
 # Build-a-Serverless-Website-on-AWS
 
 ## Project Overview
-This project involves building a Serverless Web Application on AWS using the management console. Utilising serverless AWS services such as Amplify, API Gateway, Lambbda, etc.
+This project involves building a Serverless Web Application on AWS using the management console. Utilising serverless AWS services such as Amplify, API Gateway, Lambda, etc.
 URL to my project: ([Cristina Gonzalez Marrero - Serverless Website on AWS](https://master.d2xmc84da8ysbr.amplifyapp.com/))
 
 ## Architecture

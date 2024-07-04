@@ -2,7 +2,8 @@
 
 ## Project Overview
 This project involves building a Serverless Web Application on AWS using the management console. Utilising serverless AWS services such as Amplify, API Gateway, Lambda, etc.
-URL to my project: ([Cristina Gonzalez Marrero - Serverless Website on AWS](https://master.d2xmc84da8ysbr.amplifyapp.com/))
+
+<img src="WildRydesProject.png" width="700">
 
 ## Architecture
 - **CodeCommit**: Securely store and manage, i.e a way to store/update/pull code from Git repositories.
@@ -26,3 +27,6 @@ URL to my project: ([Cristina Gonzalez Marrero - Serverless Website on AWS](http
 ## Note
 
 The request unicorn feature has limited functionality due to licensing changes with ArcGIS.
+I have temporarily taken down the URL of my website to avoid incurring substantial costs.
+
+URL to my project: ([Cristina Gonzalez Marrero - Serverless Website on AWS](https://master.d2xmc84da8ysbr.amplifyapp.com/))

@@ -26,7 +26,7 @@ This project involves building a Serverless Web Application on AWS using the man
 
 ## Note
 
-The request unicorn feature has limited functionality due to licensing changes with ArcGIS.
-I have temporarily taken down the URL of my website to avoid incurring substantial costs.
+- The request unicorn feature has limited functionality due to licensing changes with ArcGIS.
+- I have temporarily taken down the URL of my website to avoid incurring substantial costs.
 
-URL to my project: ([Cristina Gonzalez Marrero - Serverless Website on AWS](https://master.d2xmc84da8ysbr.amplifyapp.com/))
+- URL to my project: ([Cristina Gonzalez Marrero - Serverless Website on AWS](https://master.d2xmc84da8ysbr.amplifyapp.com/))
